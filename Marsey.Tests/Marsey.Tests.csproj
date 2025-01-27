@@ -22,12 +22,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Reference Include="0Harmony">
-        <HintPath>..\Marsey\Lib\0Harmony.dll</HintPath>
-      </Reference>
-    </ItemGroup>
-
-    <ItemGroup>
       <ProjectReference Include="..\Marsey\Marsey.csproj" />
     </ItemGroup>
 

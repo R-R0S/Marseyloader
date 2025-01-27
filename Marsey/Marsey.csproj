@@ -10,13 +10,9 @@
 
     <ItemGroup>
         <PackageReference Include="JetBrains.Annotations" />
+        <PackageReference Include="Lib.Harmony.Thin" />
+        <PackageReference Include="MonoMod.Core" />
         <PackageReference Include="Newtonsoft.Json" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <Reference Include="0Harmony">
-        <HintPath>..\Marsey\Lib\0Harmony.dll</HintPath>
-      </Reference>
     </ItemGroup>
 
 
