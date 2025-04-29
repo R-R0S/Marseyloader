@@ -90,5 +90,10 @@
   <ItemGroup>
     <PackageVersion Update="Avalonia.Themes.Simple" />
   </ItemGroup>
+  <ItemGroup>
+    <Reference Include="0Harmony">
+      <HintPath>..\Marsey\Lib\0Harmony.dll</HintPath>
+    </Reference>
+  </ItemGroup>
   <Import Project="..\MSBuild\Robust.Trimming.targets" />
 </Project>
