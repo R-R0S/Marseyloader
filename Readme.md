@@ -78,3 +78,8 @@ This will never happen though.
 
 ### ~~TODO~~
 * ~~Resource swapping (resource packs)~~
+
+# p.s.
+### Если что-то не работает - мне похуй.
+### Тестировалось только на linux.
+### Читы зло - не используйте их.
