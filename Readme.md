@@ -1,5 +1,8 @@
-## Rewrite maybe in 10 years
+# Проект заброшен.
+## Я буду обновлять [лаунчер](https://github.com/R-R0S/Marseyloader) по настроению, только минимальная необходимая поддержка.
 
+### ~~Rewrite maybe in 10 years~~
+### Никто эту хуйню переписывать не будет
 ![# Marseyloader](SS14.Launcher/Assets/logo-long.png)
 
 Space Station 14 launcher with client-side modding/patching support.
@@ -29,8 +32,10 @@ Space Station 14 launcher with client-side modding/patching support.
 * * Locally change username for screenshots (This doesn't change your username in-game)
 * Marsey.
 
+
 ### Contributing
-If you have any feature you want added to the main repository you are free to submit a pull request.
+#### Форкайте и модифицируйте, но ваши PR в main repository и тем более тут - никому не нужны.
+~~If you have any feature you want added to the main repository you are free to submit a pull request.~~
 
 ### Setting up
 1. Build solution
@@ -71,5 +76,5 @@ Enable loader debug, will be on your desktop
 Project EOL's immediately when our beloved friends *over there* allow client-side resource packs and UI mods.<br>
 This will never happen though.
 
-### TODO
-* Resource swapping (resource packs)
+### ~~TODO~~
+* ~~Resource swapping (resource packs)~~

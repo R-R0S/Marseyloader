@@ -64,7 +64,9 @@ public class TitleManager
         "ILVerifier", "Space Station 13", "BYOND",
         "Goonstation", "BYONDCONTROL", "Unitystation",
         "Stationeers", "RE:SS2D", "Schizostation 14",
-        "Thaumatrauma", "Calamari v3", "hamaSS14", BanMessage
+        "Thaumatrauma", "Calamari v3", "hamaSS14", "Furry Launcher",
+        "Furry RP", "ILMe не нарушал П0! ", "Furry Launcher",
+        "Furry RP", "ILMe не нарушал П0! ", BanMessage
     ];
 
     private static readonly List<string> TagLines =
@@ -87,7 +89,11 @@ public class TitleManager
         "World-class anti-cheat", "Leading cause of secondary psychosis",
         "they even made one for fastnoiselite which tells me some people have brain damage",
         "Station Announcement: Buttfucker69 (Medical Intern) has arrived at the station!",
-        "Game's not out but there's 7,000+ ban appeals"
+        "Game's not out but there's 7,000+ ban appeals", "Единственное, что я добавил как разработчик - возможность самоубийства",
+        "Не вернусь, пока не вернут цены на фризон", "Вы знали, что программисты носят специальную одежду? Загуглите furry hentai",
+        "Я ненавижу частичку себя, которая получает от этого удовольствие", "Felinids rights matter!", "Зарегистрированно в РКН под номером #1488",
+        "НАСИЛИЕ НАСИЛИЕ НАСИЛИЕ НАСИЛИЕНАСИЛИЕНАСИЛИЕНАСИЛИЕНАСИЛИЕ", "Единственное, что я добавил как разработчик - возможность самоубийства",
+        "Возможно, я ненавижу вульп всем сердцем, потому что в душе я сам вульпа"
     ];
 
     // Have I truly lost any imagination? Yeah, kind of.
