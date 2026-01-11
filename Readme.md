@@ -1,8 +1,6 @@
 # Проект заброшен.
-## Я буду обновлять [лаунчер](https://github.com/R-R0S/Marseyloader) по настроению, только минимальная необходимая поддержка.
 
 ### ~~Rewrite maybe in 10 years~~
-### Никто эту хуйню переписывать не будет
 ![# Marseyloader](SS14.Launcher/Assets/logo-long.png)
 
 Space Station 14 launcher with client-side modding/patching support.
@@ -34,7 +32,6 @@ Space Station 14 launcher with client-side modding/patching support.
 
 
 ### Contributing
-#### Форкайте и модифицируйте, но ваши PR в main repository и тем более тут - никому не нужны.
 ~~If you have any feature you want added to the main repository you are free to submit a pull request.~~
 
 ### Setting up
@@ -80,6 +77,4 @@ This will never happen though.
 * ~~Resource swapping (resource packs)~~
 
 # p.s.
-### Если что-то не работает - мне похуй.
-### Тестировалось только на linux.
 ### Читы зло - не используйте их.
